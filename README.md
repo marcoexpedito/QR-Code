@@ -6,10 +6,16 @@ Este repositório contém a solução para o desafio proposto pela [Digital Inno
 
 Neste desafio, o usuário deve inserir um link (ou outro dado) e, a partir disso, o sistema retorna um QR Code correspondente. A proposta serve como exercício de lógica e integração com bibliotecas externas no ecossistema JavaScript.
 
-### 🚫 Restrições
+## 🧩 Abordagem do Projeto
+O projeto foi desenvolvido utilizando JavaScript com execução no ambiente Node.js, com foco na manipulação de entrada do usuário e geração de QR Codes diretamente no terminal. Uma forma prática de exercitar o uso de bibliotecas do ecossistema Node e interação via linha de comando.
 
-- ✅ **Foco na lógica em JavaScript**
-- ✅ **Possível execução via Node.js ou ambiente de execução DIO**
+📦 Uso da biblioteca qrcode-terminal
+
+💻 Execução 100% via terminal
+
+🧠 Foco na lógica e manipulação de dados com JavaScript
+
+🛠️ Ideal para praticar integração de bibliotecas externas e entrada/saída de dados
 
 ## 🛠️ Tecnologias e Ferramentas
 
